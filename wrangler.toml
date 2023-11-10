@@ -1,0 +1,7 @@
+name = "short_urls"
+main = "src/index.ts"
+compatibility_date = "2023-10-30"
+
+kv_namespaces = [
+  { binding = "SHORT_URLS", id = "27ded5de20c1407d808313f7b4ddd12d", preview_id = "c1c472c113ac40af8995d5b471aedc30" }
+]
